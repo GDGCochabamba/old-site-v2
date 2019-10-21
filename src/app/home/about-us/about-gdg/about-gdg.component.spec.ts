@@ -1,19 +1,19 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { WtmComponent } from './wtm.component';
+import { AboutGdgComponent } from './about-gdg.component';
 
-describe('WtmComponent', () => {
-  let component: WtmComponent;
-  let fixture: ComponentFixture<WtmComponent>;
+describe('GdgComponent', () => {
+  let component: AboutGdgComponent;
+  let fixture: ComponentFixture<AboutGdgComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [WtmComponent]
+      declarations: [AboutGdgComponent]
     }).compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(WtmComponent);
+    fixture = TestBed.createComponent(AboutGdgComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

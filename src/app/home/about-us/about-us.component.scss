@@ -1,7 +1,7 @@
 @import '../../../styles.variables';
 
 @media #{$extra-large-and-up} {
-  .container {
-    width: 43%;
+  .extra-margin {
+    padding: 0 13%;
   }
 }
