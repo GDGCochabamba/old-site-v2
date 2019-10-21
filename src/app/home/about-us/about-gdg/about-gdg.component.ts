@@ -5,6 +5,4 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './about-gdg.component.html',
   styleUrls: ['./about-gdg.component.scss']
 })
-export class AboutGdgComponent {
-  constructor() {}
-}
+export class AboutGdgComponent {}

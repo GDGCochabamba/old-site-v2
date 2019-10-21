@@ -5,6 +5,4 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './about-wtm.component.html',
   styleUrls: ['./about-wtm.component.scss']
 })
-export class AboutWtmComponent {
-  constructor() {}
-}
+export class AboutWtmComponent {}
