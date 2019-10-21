@@ -1,0 +1,20 @@
+@import '../../../../styles.variables';
+
+.img {
+  width: 100%;
+}
+
+@media #{$extra-large-and-up} {
+  .container {
+    width: 43%;
+    text-align: left;
+  }
+}
+
+.mt50 {
+  margin-top: 50px;
+}
+
+.icon-20 {
+  font-size: 20px;
+}

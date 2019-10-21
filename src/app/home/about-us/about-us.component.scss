@@ -1,0 +1,7 @@
+@import '../../../styles.variables';
+
+@media #{$extra-large-and-up} {
+  .container {
+    width: 43%;
+  }
+}
