@@ -1,12 +1,12 @@
 @import './styles.colors';
 @import './styles.variables';
 @import '~materialize-css/sass/materialize';
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-@import '~@fortawesome/fontawesome-free/css/all.css';
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap');
+@import '~@fortawesome/fontawesome-free/css/all.css';
 
 body {
   font-family: 'Lato', sans-serif;
+  color: $text-color;
 }
 
 gdg-root {
@@ -29,6 +29,7 @@ a {
 }
 
 .parallax-container {
+  position: relative;
   height: calc(100vh - 56px);
   min-height: $parallax-min-height;
   background-color: rgba($primary-color-dark, 0.5);
