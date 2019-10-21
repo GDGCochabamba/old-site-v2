@@ -11,6 +11,13 @@
   }
 }
 
+@media #{$medium-and-up} {
+  .vertical-center {
+    display: flex;
+    align-items: center;
+  }
+}
+
 .mt30 {
   margin-top: 30px;
 }
