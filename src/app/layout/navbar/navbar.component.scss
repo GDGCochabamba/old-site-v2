@@ -7,8 +7,20 @@ nav {
   z-index: 998;
   box-shadow: none;
 
+  a {
+    color: $text-color;
+  }
+
   @media #{$large-and-up} {
-    padding: 0 100px;
+    ul a.btn-large {
+      margin-top: -7px;
+      margin-right: 4px;
+      color: white;
+    }
+
+    .brand-logo {
+      margin-left: 20px;
+    }
   }
 }
 
@@ -18,7 +30,7 @@ nav {
   z-index: 996;
   width: 100%;
   height: 56px;
-  background-color: $primary-color;
+  background-color: $navbar-color;
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 
   @media #{$medium-and-up} {

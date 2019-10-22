@@ -5,6 +5,7 @@ import { of } from 'rxjs';
 import { AboutUsModule } from './about-us/about-us.module';
 import { HomeComponent } from './home.component';
 import { BannerComponent } from './banner/banner.component';
+import { CodeOfConductComponent } from './code-of-conduct/code-of-conduct.component';
 import { PartnersComponent } from './partners/partners.component';
 import { PartnerService } from './partners/partner.service';
 
@@ -18,7 +19,12 @@ describe('HomeComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [HomeComponent, BannerComponent, PartnersComponent],
+      declarations: [
+        HomeComponent,
+        BannerComponent,
+        CodeOfConductComponent,
+        PartnersComponent
+      ],
       imports: [AboutUsModule],
       providers: [{ provide: PartnerService, useValue: partnerServiceMock }]
     }).compileComponents();

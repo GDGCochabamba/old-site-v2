@@ -2,19 +2,59 @@
   <nav class="transparent">
     <div class="nav-wrapper">
       <a routerLink="/" class="brand-logo">
-        GDG
+        <img src="assets/images/logo-gdgcochabamba.svg" class="hide-on-med-and-down" alt="GDG Cochabamba">
+        <img src="assets/images/logo-gdgcocha.png" class="hide-on-large-only" alt="GDG Cochabamba">
       </a>
       <a data-target="mobile-menu" class="sidenav-trigger">
         <i class="fas fa-bars"></i>
       </a>
       <ul class="right hide-on-med-and-down">
-        <li><a routerLink="/">Inicio</a></li>
+        <li>
+          <a href="//www.facebook.com/GDGCochabamba/" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-facebook-square fa-2x"></i>
+          </a>
+        </li>
+        <li>
+          <a href="//instagram.com/gdgcochabamba?igshid=bzzf94uda17u" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-instagram fa-2x"></i>
+          </a>
+        </li>
+        <li>
+          <a href="//meetu.ps/e/Hdf2K/zlFnn/d" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-meetup fa-2x"></i>
+          </a>
+        </li>
+        <li>
+          <a class="btn-large waves-effect">
+            Tickets muy pronto
+          </a>
+        </li>
       </ul>
     </div>
   </nav>
 
-  <ul swSidenav class="sidenav" id="mobile-menu">
-    <li><a class="sidenav-close" routerLink="/">Inicio</a></li>
+  <ul gdgSidenav class="sidenav" id="mobile-menu">
+    <li>
+      <a class="btn waves-effect sidenav-close">
+        Tickets muy pronto
+      </a>
+    </li>
+    <li>
+      <a href="//www.facebook.com/GDGCochabamba/" target="_blank" rel="noopener noreferrer" class="sidenav-close">
+        <i class="fab fa-facebook-square fa-2x"></i> Facebook
+      </a>
+    </li>
+    <li>
+      <a href="//instagram.com/gdgcochabamba?igshid=bzzf94uda17u" target="_blank" rel="noopener noreferrer"
+        class="sidenav-close">
+        <i class="fab fa-instagram fa-2x"></i> Instagram
+      </a>
+    </li>
+    <li>
+      <a href="//meetu.ps/e/Hdf2K/zlFnn/d" target="_blank" rel="noopener noreferrer" class="sidenav-close">
+        <i class="fab fa-meetup fa-2x"></i> Meetup
+      </a>
+    </li>
   </ul>
 
   <div id="navbar-background"></div>
