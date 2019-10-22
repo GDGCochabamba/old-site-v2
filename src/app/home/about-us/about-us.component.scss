@@ -1,7 +1,24 @@
 @import '../../../styles.variables';
 
-@media #{$extra-large-and-up} {
-  .extra-margin {
-    padding: 0 13%;
+::ng-deep {
+  .about-us-img {
+    width: 100%;
+  }
+
+  .about-us-content {
+    font-weight: 300;
+    font-size: $h5-fontsize;
+    line-height: 2.4rem;
+  }
+
+  @media #{$medium-and-up} {
+    .align-left-on-medium {
+      text-align: left;
+    }
+
+    .vertical-center {
+      display: flex;
+      align-items: center;
+    }
   }
 }
