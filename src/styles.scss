@@ -23,6 +23,15 @@ a {
   cursor: pointer;
 }
 
+strong {
+  font-weight: 700;
+}
+
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 .top-section {
   position: relative;
   z-index: 997;
@@ -41,17 +50,6 @@ a {
   &-data {
     width: 100%;
   }
-}
-
-strong {
-  font-weight: 700;
-}
-
-.paragraph {
-  font-size: 24px;
-  line-height: 35px;
-  letter-spacing: 0.51px;
-  font-weight: 300;
 }
 
 .divider {

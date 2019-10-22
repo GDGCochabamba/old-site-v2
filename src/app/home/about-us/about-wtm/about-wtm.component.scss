@@ -1,26 +1,9 @@
 @import '../../../../styles.variables';
 
-img {
-  width: 100%;
-}
-
-@media #{$medium-and-up} {
-  .wtm-txt-align {
-    text-align: left;
-  }
-}
-
 .mt50 {
   margin-top: 50px;
 }
 
 .icon-20 {
   font-size: 20px;
-}
-
-@media #{$medium-and-up} {
-  .vertical-center {
-    display: flex;
-    align-items: center;
-  }
 }
