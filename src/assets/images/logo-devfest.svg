@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="607px" height="81px" viewBox="0 0 607 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 59 (101010) - https://sketch.com -->
+    <title>3221D9CB-20B0-4C78-9F9A-DFBE0CC304AD</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Devfest-Web-Home" transform="translate(-657.000000, -425.000000)">
+            <g id="logo-devfest" transform="translate(656.000000, 424.000000)">
+                <path d="M484,1 L514,1 L514,1 L514,51 C514,67.5685425 500.568542,81 484,81 L454,81 L454,81 L454,31 C454,14.4314575 467.431458,1 484,1 Z" id="Rectangle" fill="#FBBC04"></path>
+                <path d="M321.77459,1.2295082 L321.77459,81.6270492 L289.192623,81.6270492 L289.192623,1.2295082 L321.77459,1.2295082 Z M348.786885,55.4221311 L321.786885,55.4221311 L321.786885,1.2295082 L348.786885,1.2295082 L348.786885,55.4221311 Z" id="Combined-Shape" fill="#EA4335" fill-rule="nonzero"></path>
+                <path d="M578.311475,81.6270492 L545.729508,81.6270492 L545.729508,28.2295082 L525.245902,28.2295082 L525.245902,1.2295082 L598.795082,1.2295082 L598.795082,28.2295082 L578.311475,28.2295082 L578.311475,81.6270492 Z" id="Combined-Shape" fill="#4285F4" fill-rule="nonzero"></path>
+                <path d="M121.254098,81.6270492 L121.254098,81.6270492 L121.254098,1.2295082 L121.254098,1.2295082 C105.378175,1.2295082 92.5081941,14.0994867 92.5081941,29.9754098 L92.5081941,52.8688525 C92.504935,60.4948696 95.5320723,67.8096612 100.923328,73.203223 C106.314584,78.5967848 113.62808,81.6270492 121.254098,81.6270492 L121.254098,81.6270492 Z" id="Path" fill="#FBBC04" fill-rule="nonzero"></path>
+                <rect id="Rectangle" fill="#FBBC04" fill-rule="nonzero" x="121" y="1" width="36.4303279" height="80.397541"></rect>
+                <path d="M177,1 L269,1 L223.006092,81.397541 L177,1 Z" id="Combined-Shape" fill="#4285F4" fill-rule="nonzero"></path>
+                <path d="M396.028529,81.6231964 C380.365163,81.3692388 367.745902,68.5927388 367.745902,52.8688525 L367.745902,52.8688525 L367.745902,29.9754098 C367.75269,14.0974981 380.626185,1.2295082 396.504098,1.2295082 L396.504098,1.2295082 L432.934426,1.2295082 L432.934426,81.6270492 L396.504098,81.6270492 Z" id="Combined-Shape" fill="#34A853" fill-rule="nonzero"></path>
+                <path d="M32.4873583,80.9961663 C15.6029772,80.7434644 2,68.0301403 2,52.3840037 L2,52.3840037 L2,29.603762 C2.00731751,13.8043617 15.8843472,1 33,1 L33,1 L73,1 L73,81 L33,81 Z" id="Combined-Shape-Copy" fill="#34A853" fill-rule="nonzero" transform="translate(37.500000, 41.000000) scale(-1, 1) translate(-37.500000, -41.000000) "></path>
+                <line x1="157.58381" y1="29.8191859" x2="94.5838096" y2="29.1808141" id="Path" stroke="#FFFFFF" stroke-width="2"></line>
+                <line x1="432.58381" y1="29.8191859" x2="367.58381" y2="29.1808141" id="Path-Copy" stroke="#FFFFFF" stroke-width="2"></line>
+                <line x1="348.416843" y1="28.601825" x2="285.010357" y2="29.558477" id="Path-Copy-12" stroke="#FFFFFF" stroke-width="2" transform="translate(317.002741, 28.685857) rotate(1.000000) translate(-317.002741, -28.685857) "></line>
+                <line x1="73.9962491" y1="40.3632156" x2="1.01399325" y2="41.8965151" id="Path-Copy-8" stroke="#FFFFFF" stroke-width="2" transform="translate(37.513993, 40.896515) rotate(1.000000) translate(-37.513993, -40.896515) "></line>
+                <line x1="223.706746" y1="81.9941811" x2="222.269983" y2="1.00453782" id="Path-Copy-5" stroke="#FFFFFF" stroke-width="2" transform="translate(223.019983, 41.504538) rotate(1.000000) translate(-223.019983, -41.504538) "></line>
+                <line x1="157.58381" y1="53.8191859" x2="94.5838096" y2="53.1808141" id="Path" stroke="#FFFFFF" stroke-width="2"></line>
+                <line x1="432.58381" y1="53.8191859" x2="367.58381" y2="53.1808141" id="Path-Copy-3" stroke="#FFFFFF" stroke-width="2"></line>
+                <line x1="482.428693" y1="54.0036836" x2="454.428693" y2="54.0036836" id="Path-Copy-14" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></line>
+                <line x1="608" y1="29" x2="486.428693" y2="29.0036836" id="Path-Copy-6" stroke="#FFFFFF" stroke-width="2"></line>
+            </g>
+        </g>
+    </g>
+</svg>

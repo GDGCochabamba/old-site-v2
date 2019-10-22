@@ -1,5 +1,7 @@
 # GdgWebsite
 
+[![CircleCI](https://circleci.com/gh/GDGCochabamba/gdg-website.svg?style=svg)](https://circleci.com/gh/GDGCochabamba/gdg-website)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
 ## Development server

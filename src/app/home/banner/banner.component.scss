@@ -1,0 +1,94 @@
+@import '../../../styles.colors';
+@import '../../../styles.variables';
+
+#banner-container {
+  position: relative;
+  height: 100%;
+  text-align: center;
+  z-index: 1;
+}
+
+#banner-details {
+  font-weight: 300;
+  line-height: 2rem;
+  margin-bottom: 80px;
+}
+
+#place-and-date {
+  padding: 15px 60px;
+  border: 2px solid $border-color;
+  font-weight: bolder;
+
+  @media #{$medium-and-up} {
+    display: inline;
+  }
+}
+
+#devfest-logo {
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+#cbba-logo {
+  max-width: 100%;
+  margin-bottom: 30px;
+}
+
+#scroll-down {
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+
+  p {
+    margin-block-end: 0.5em;
+
+    a {
+      color: $primary-color;
+    }
+  }
+
+  img {
+    -webkit-animation: pulse 2s infinite;
+    animation: pulse 2s infinite;
+  }
+}
+
+@media #{$medium-and-down} {
+  .parallax-container .parallax img {
+    left: 150%;
+  }
+}
+
+@-webkit-keyframes pulse {
+  0% {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+
+  50% {
+    -webkit-transform: translate(0, 10px);
+    transform: translate(0, 10px);
+  }
+
+  100% {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+
+  50% {
+    -webkit-transform: translate(0, 10px);
+    transform: translate(0, 10px);
+  }
+
+  100% {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+}
