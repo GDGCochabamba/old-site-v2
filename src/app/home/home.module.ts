@@ -8,9 +8,10 @@ import { AboutUsModule } from './about-us/about-us.module';
 import { PartnersComponent } from './partners/partners.component';
 import { PartnerService } from './partners/partner.service';
 import { SharedModule } from '../shared/shared.module';
+import { CodeOfConductComponent } from './code-of-conduct/code-of-conduct.component';
 
 @NgModule({
-  declarations: [HomeComponent, BannerComponent, PartnersComponent],
+  declarations: [HomeComponent, BannerComponent, PartnersComponent, CodeOfConductComponent],
   imports: [CommonModule, HomeRoutingModule, AboutUsModule, SharedModule],
   providers: [PartnerService]
 })
