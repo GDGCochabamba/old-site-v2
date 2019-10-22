@@ -8,9 +8,8 @@ describe('CodeOfConductComponent', () => {
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ CodeOfConductComponent ]
-    })
-    .compileComponents();
+      declarations: [CodeOfConductComponent]
+    }).compileComponents();
   }));
 
   beforeEach(() => {

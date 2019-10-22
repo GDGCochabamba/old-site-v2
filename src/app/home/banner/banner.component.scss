@@ -9,7 +9,6 @@
 }
 
 #banner-details {
-  font-weight: 300;
   line-height: 2rem;
   margin-bottom: 80px;
 }
@@ -55,7 +54,7 @@
 
 @media #{$medium-and-down} {
   .parallax-container .parallax img {
-    left: 150%;
+    left: 100%;
   }
 }
 
