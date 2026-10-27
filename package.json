@@ -18,7 +18,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.2.11",
-    "@angular/common": "~8.2.11",
+    "@angular/common": "~20.3.34",
     "@angular/compiler": "~8.2.11",
     "@angular/core": "~8.2.11",
     "@angular/fire": "^5.2.1",
